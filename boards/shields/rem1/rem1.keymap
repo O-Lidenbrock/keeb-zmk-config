@@ -32,7 +32,7 @@
                 /* Row 3 */
                 &trans   &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans  &trans &trans
                 /* Row 4 */
-                &trans     &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans     &trans      &trans     &trans      &trans
+                &trans     &trans         &trans         &trans         &trans         &trans         &trans         &trans         &trans     &trans      &trans     &trans      &kp C_PP
                 /* Row 5 */
                 &trans      &trans      &trans      &trans     &trans      &trans     &trans        &kp C_PREV     &kp C_VOL_DOWN     &kp C_NEXT  &kp DELETE  &trans &kp C_VOL_UP
             >;
